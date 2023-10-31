@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'max bot'
 global.premium = 'true'
-global.packname = 'minemax pack' 
+global.packname = 'blaine pack' 
 global.author = '@AYP' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
